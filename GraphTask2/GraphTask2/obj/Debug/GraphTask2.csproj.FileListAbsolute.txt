@@ -1,0 +1,20 @@
+C:\1 курс\Visual Studio\2 семестр\3 Аттестация\GraphTask2\GraphTask2\bin\Debug\GraphTask2.exe.config
+C:\1 курс\Visual Studio\2 семестр\3 Аттестация\GraphTask2\GraphTask2\bin\Debug\GraphTask2.exe
+C:\1 курс\Visual Studio\2 семестр\3 Аттестация\GraphTask2\GraphTask2\bin\Debug\GraphTask2.pdb
+C:\1 курс\Visual Studio\2 семестр\3 Аттестация\GraphTask2\GraphTask2\obj\Debug\GraphTask2.csprojResolveAssemblyReference.cache
+C:\1 курс\Visual Studio\2 семестр\3 Аттестация\GraphTask2\GraphTask2\obj\Debug\GraphTask2.MainWindow.resources
+C:\1 курс\Visual Studio\2 семестр\3 Аттестация\GraphTask2\GraphTask2\obj\Debug\GraphTask2.Properties.Resources.resources
+C:\1 курс\Visual Studio\2 семестр\3 Аттестация\GraphTask2\GraphTask2\obj\Debug\GraphTask2.csproj.GenerateResource.Cache
+C:\1 курс\Visual Studio\2 семестр\3 Аттестация\GraphTask2\GraphTask2\obj\Debug\GraphTask2.csproj.CoreCompileInputs.cache
+C:\1 курс\Visual Studio\2 семестр\3 Аттестация\GraphTask2\GraphTask2\obj\Debug\GraphTask2.exe
+C:\1 курс\Visual Studio\2 семестр\3 Аттестация\GraphTask2\GraphTask2\obj\Debug\GraphTask2.pdb
+E:\GraphTask2\GraphTask2\bin\Debug\GraphTask2.exe.config
+E:\GraphTask2\GraphTask2\bin\Debug\GraphTask2.exe
+E:\GraphTask2\GraphTask2\bin\Debug\GraphTask2.pdb
+E:\GraphTask2\GraphTask2\obj\Debug\GraphTask2.csprojResolveAssemblyReference.cache
+E:\GraphTask2\GraphTask2\obj\Debug\GraphTask2.MainWindow.resources
+E:\GraphTask2\GraphTask2\obj\Debug\GraphTask2.Properties.Resources.resources
+E:\GraphTask2\GraphTask2\obj\Debug\GraphTask2.csproj.GenerateResource.Cache
+E:\GraphTask2\GraphTask2\obj\Debug\GraphTask2.csproj.CoreCompileInputs.cache
+E:\GraphTask2\GraphTask2\obj\Debug\GraphTask2.exe
+E:\GraphTask2\GraphTask2\obj\Debug\GraphTask2.pdb
